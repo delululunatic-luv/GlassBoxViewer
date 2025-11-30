@@ -21,20 +21,24 @@ Then run one of the two scripts with the leading name "example_" and the visuali
 
 
 ## Demo Usage
+
 https://github.com/user-attachments/assets/36b4c2c7-f1b1-485d-8201-7800a6956dfb
 
 
 ## LLM GPT2 Example Demo
 <h3 align="center">Linear Method</h3>
+
 https://github.com/user-attachments/assets/4753955b-9cbd-47de-ab5a-313034fbe5d5
 
 <h3 align="center">Ring Method</h3>
+
 https://github.com/user-attachments/assets/4a788a41-bc27-4122-8f24-50778398bb94
 
 
 
 ## CNN ResNet50 Example Demo
 <h3 align="center">Linear Method</h3>
+
 https://github.com/user-attachments/assets/cc083425-ce5e-4026-acce-10bca9ceef7d
 
 <h3 align="center">Ring Method</h3>
